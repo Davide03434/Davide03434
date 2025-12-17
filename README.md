@@ -14,4 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davide03434&show_icons=true&locale=en&layout=compact" alt="davide03434" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davide03434&show_icons=true&locale=en" alt="davide03434" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Davide03434&show_icons=true&locale=en" alt="davide03434" /></p>
