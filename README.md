@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Davide</h1>
-<h3 align="center">A developer from Italy</h3>
+<h3 align="center"></h3>
 
 - 🌱 I’m currently learning **Astro**
 
